@@ -1,8 +1,3 @@
 # About this Repo
 
-This is the Git repo of the official Docker image for [php](https://registry.hub.docker.com/_/php/). See the
-Hub page for the full readme on how to use the Docker image and for information
-regarding contributing and issues.
-
-The full readme is generated over in [docker-library/docs](https://github.com/docker-library/docs),
-specificially in [docker-library/docs/php](https://github.com/docker-library/docs/tree/master/php).
+This is the Git repo for Docker PHP-5.5 with Apache 2.2 image that is modified from the official Docker image for [php](https://registry.hub.docker.com/_/php/). 
